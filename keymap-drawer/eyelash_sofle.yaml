@@ -93,7 +93,7 @@ layers:
   - P
   - {t: '-', s: _}
   - $$mdi:apple-keyboard-shift$$
-  - {t: A, h: '$$mdi:apple-keyboard-shift$$'}
+  - A
   - S
   - D
   - F
